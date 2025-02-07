@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"appareils"},{"l":"appareils.ordinateur"},{"l":"appareils.ordinateur.decorateur"},{"l":"factory"},{"l":"inventory"}]
