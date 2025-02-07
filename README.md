@@ -34,5 +34,6 @@ Usine : Gère la création des appareils. L'utilisateur peut choisir le type d'a
 ### 6. Énumérations
 Categorie : Enumération représentant les différentes catégories d'appareils (Téléphone, OrdinateurPortable, Apple, Asus).
 Processeur et CarteGraphique : Enumérations permettant de sélectionner des processeurs et cartes graphiques spécifiques avec des prix associés.
-Objectif du projet
+
+##Objectif du projet
 L'objectif principal de ce projet est de démontrer la création d'appareils électroniques avec différentes options de personnalisation. L'application permet de gérer un inventaire d'appareils, de calculer leurs prix en fonction de la personnalisation, et d'utiliser des concepts comme l'héritage et le Design Pattern Decorator pour étendre les fonctionnalités d'un objet sans changer sa structure de base.
